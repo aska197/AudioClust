@@ -20,6 +20,7 @@ The audio data used in this project consists of a collection of WAV files, each 
 - **code:** Contains Python scripts for data preprocessing and feature extraction.
 - **data:** Contains audio files in different formats (MP3 and WAV).
 - **results:** Contains CSV files with extracted features and classification results.
+- **schemes:** Contains Orange data mining tool workflows for audio clustering and model learning.
 - **README.md:** This file provides an overview of the project, its goals, and the data preprocessing and classification steps.
 
 ## Usage
